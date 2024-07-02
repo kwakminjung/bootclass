@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;frontend/src/main/resources/static/ExternalStyle.html&apos; to &apos;externalStyle.html&apos;" description="Rename resource &apos;ExternalStyle.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/static/ExternalStyle.html" name="externalStyle.html" stamp="1719883246364" updateReferences="true"/>
+</session>
